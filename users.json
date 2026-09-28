@@ -4,6 +4,11 @@
       "username_hash": "$argon2id$v=19$m=65536,t=3,p=4$PFyDdoqrWxe30WeUC5Ajwg$PA62BJlwvME1ozHw5T2/Uhkdqxs1SB6YPN0yi6R/qjc",
       "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$KucghCiOMF+MIUR8rZLT1Q$n1jFxYf/1d4wqWFUpCrpU7jjGyHoAveSVgwWl7tRcXs",
       "enabled": true
+    },
+    {
+      "username_hash": "$argon2id$v=19$m=65536,t=3,p=4$ogD4y9MLAFgb03CQes2xog$wj1T6eMGzpjrT9lsfXj4De/0ercdeh1KPJ8E4M4DwB8",
+      "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$PVsVZVyB3GbC8Hv9KfBeEw$GBEO1qZlejezh2liQ4aMasDgTPQHrtScJACWGmionUg",
+      "enabled": true
     }
   ]
 }
